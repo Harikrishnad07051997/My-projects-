@@ -1,0 +1,16 @@
+python-dotenv
+azure-ai-formrecognizer
+azure-core
+openai
+pymongo
+pyodbc
+httpx
+pydantic
+Werkzeug
+fastapi
+apscheduler
+logging
+uvicorn
+pymupdf
+tiktoken
+
